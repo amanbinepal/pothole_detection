@@ -1,0 +1,17 @@
+name: pothole-detection
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pytorch
+  - torchvision
+  - pillow
+  - matplotlib
+  - opencv
+  - notebook
+  - pip
+  - pip:
+    - ultralytics
