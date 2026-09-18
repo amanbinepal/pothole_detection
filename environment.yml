@@ -12,6 +12,9 @@ dependencies:
   - matplotlib
   - opencv
   - notebook
+  - numpy<2
+  - intel-openmp
+  - mkl
   - pip
   - pip:
     - ultralytics
