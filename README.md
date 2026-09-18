@@ -25,7 +25,7 @@ Dataset from [Brad Dwyer on Roboflow](https://universe.roboflow.com/brad-dwyer/p
 
 The project includes a Gradio app for testing the model interactively. When you upload a road image, it draws bounding boxes around detected potholes.
 
-[![Demo](assets/demo.png)](assets/demo.png)
+[![Demo](assets/demo_gradio.png)](assets/demo_gradio.png)
 
 ## Setup
 
