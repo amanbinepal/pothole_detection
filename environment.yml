@@ -1,21 +1,18 @@
 name: pothole-detection
 channels:
-  - pytorch
-  - nvidia
   - conda-forge
   - defaults
 dependencies:
   - python=3.12
-  - pytorch
-  - torchvision
   - pillow
   - matplotlib
   - opencv
   - notebook
   - numpy<2
-  - intel-openmp
-  - mkl
   - pip
   - pip:
+    - --extra-index-url https://download.pytorch.org/whl/cu121
+    - torch
+    - torchvision
     - ultralytics
     - gradio
