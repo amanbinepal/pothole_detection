@@ -29,7 +29,7 @@ The project includes a Gradio app for testing the model interactively. When you 
 
 **Sample prediction:**
 
-[![Sample Prediction](assets/sample_prediction.webp)](assets/sample_prediction.webp)
+[![Sample Prediction](assets/sample_prediction.jpg)](assets/sample_prediction.jpg)
 
 ## Setup
 
