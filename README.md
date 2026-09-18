@@ -27,6 +27,10 @@ The project includes a Gradio app for testing the model interactively. When you 
 
 [![Demo](assets/demo_gradio.png)](assets/demo_gradio.png)
 
+**Sample prediction:**
+
+[![Sample Prediction](assets/sample_prediction.webp)](assets/sample_prediction.webp)
+
 ## Setup
 
 1. Clone the repo
